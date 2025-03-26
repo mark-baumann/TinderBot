@@ -82,7 +82,7 @@ Dieser Bot funktioniert **nur** mit dem aktuellen Tinder-Website DOM von **2025*
 
 ## 🧑‍💻 Autor:
 
-Dieses Projekt wurde von **[Dein Name]** erstellt.
+Dieses Projekt wurde von **Mark Baumann** erstellt.
 
 ---
 
