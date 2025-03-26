@@ -133,8 +133,8 @@ class TinderBot:
 
 
 if __name__ == "__main__":
-    email = "kontakt@markb.de"  # Deine Facebook-E-Mail
-    password = "Mustang_<3"  # Dein Facebook-Passwort
+    email = ""  # Deine Facebook-E-Mail
+    password = ""  # Dein Facebook-Passwort
 
     bot = TinderBot(email, password)
     bot.setup_driver()
